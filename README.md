@@ -11,8 +11,9 @@ A simple website of recipes in HTML (with a smidge of CSS). Sadly still very ugl
 - Changed the cursor to a whisk. Doubtful whether it is easily recognizable when its resolution is so low
 - Generate favicons using [favicon.io](https://favicon.io/favicon-converter/)
 - [Unsplash](https://unsplash.com/) for high-quality images
+<br>
+![odin-recipes site logo](images/site_logo.png)  
 
-![odin-recipes site logo](images/site_logo.png)
 The odin-recipes site logo
 
 ### Issues: 
