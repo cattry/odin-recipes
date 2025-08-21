@@ -1,7 +1,5 @@
 # odin-recipes
 
-# odin-recipes
-
 ## About
 A simple website of recipes in HTML (with a smidge of CSS). Sadly still very ugly and static. Was positively itching to add some CSS, but I succeeded in withholding myself. This site is very much a work in progress. Imagine its power when I discover JS.
 
@@ -14,8 +12,8 @@ A simple website of recipes in HTML (with a smidge of CSS). Sadly still very ugl
 - Generate favicons using [favicon.io](https://favicon.io/favicon-converter/)
 - [Unsplash](https://unsplash.com/) for high-quality images
 
-The site logo:
 ![odin-recipes site logo](images/site_logo.png)
+The odin-recipes site logo
 
 ### Issues: 
 - The cursor is still pretty low-res
