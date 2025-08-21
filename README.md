@@ -12,8 +12,7 @@ A simple website of recipes in HTML (with a smidge of CSS). Sadly still very ugl
 - Generate favicons using [favicon.io](https://favicon.io/favicon-converter/)
 - [Unsplash](https://unsplash.com/) for high-quality images
 <br>
-![odin-recipes site logo](images/site_logo.png)
-
+![odin-recipes site logo](images/site_logo.png) <br>
 The odin-recipes site logo
 
 ### Issues: 
